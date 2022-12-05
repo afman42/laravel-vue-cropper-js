@@ -1,12 +1,7 @@
 # Laravel Vue Cropper JS
 
-<iframe
-    id="existing-iframe-example"
-    width="640" height="360"
-    src="./video.mp4"
-    frameborder="0"
-    style="border: solid 4px #37474F"
-></iframe>
+<video id="example_video_1" width="640" height="264" src="./video.mp4" type='video/mp4'>
+</video>
 
 ## How To Run
 1. `composer install`
