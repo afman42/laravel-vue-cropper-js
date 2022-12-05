@@ -1,7 +1,6 @@
 # Laravel Vue Cropper JS
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYCh8QSlj2A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
-
+[![Video]()](https://www.youtube.com/embed/aYCh8QSlj2A)
 ## How To Run
 1. `composer install`
 2. setting database and `php artisan migrate`
