@@ -1,7 +1,6 @@
 # Laravel Vue Cropper JS
 
-<video id="example_video_1" width="640" height="264" src="./video.mp4" type='video/mp4'>
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYCh8QSlj2A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
 
 ## How To Run
 1. `composer install`
