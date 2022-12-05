@@ -45,6 +45,7 @@ function setImage(e) {
 }
 function cancelClickUpload() {
     clickUpload.value = false;
+    fileUpload.value = null;
     getRecords();
 }
 function imageUpload(e) {
